@@ -45,6 +45,7 @@ import com.android.settingslib.core.lifecycle.Lifecycle;
 import com.android.settingslib.core.lifecycle.LifecycleObserver;
 import com.android.settingslib.core.lifecycle.events.OnResume;
 import com.android.settingslib.development.DevelopmentSettingsEnabler;
+import java.util.Random;
 
 import android.os.SystemProperties;
 
@@ -66,6 +67,25 @@ public class BuildNumberPreferenceController extends AbstractPreferenceControlle
     private boolean mDebuggingFeaturesDisallowedBySystem;
     private int mDevHitCountdown;
     private boolean mProcessingLastDevHit;
+
+    public final static java.lang.String[] insults = {
+            "Your VoLTE Has been Sucesfully Removed!",
+            "What are you doing??",
+            "n00b alert!",
+            "Congratulations! You have enabled VoLTE Advanced Settings.",
+            "Break Your phone You Stupid!",
+            "Can you don't?",
+            "This is not Windows",
+            "Please step away from the device!",
+            "error code: 1D10T",
+            "Go outside",
+            "Pro tip: Stop doing this!",
+            "Your Phone is Going To Reboot in 5 Seconds.",
+            "Why are you so stupid?!",
+            "Perhaps this Android thing is not for you...",
+            "Don't you have anything better to do?!",
+            "This is why nobody likes you...",
+            "Are you even trying?!",};
 
     public BuildNumberPreferenceController(Context context, Activity activity, Fragment fragment,
             Lifecycle lifecycle) {
@@ -212,7 +232,9 @@ public class BuildNumberPreferenceController extends AbstractPreferenceControlle
             if (mDevHitToast != null) {
                 mDevHitToast.cancel();
             }
-            mDevHitToast = Toast.makeText(mContext, R.string.show_dev_already,
+            Random randomInsult = new Random();
+            final int toasts = randomInsult.nextInt(insults.length);
+            mDevHitToast = Toast.makeText(mContext, insults[toasts],
                     Toast.LENGTH_LONG);
             mDevHitToast.show();
             mMetricsFeatureProvider.action(

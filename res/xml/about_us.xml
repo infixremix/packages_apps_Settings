@@ -14,17 +14,17 @@ implied.
 
 <PreferenceScreen
 xmlns:android="http://schemas.android.com/apk/res/android"
-        android:title="@string/onyx_about_info">
+        android:title="@string/minimal_about_info">
 
 <PreferenceCategory
               android:key="about"
               android:title="@string/dev_info" >
 
         <Preference
-    android:summary="@string/onyx_about_info_summary" >
+    android:summary="@string/minimal_about_info_summary" >
             <intent
                android:action="android.intent.action.VIEW" 
-               android:data="https://t.me/onyxos"/>
+               android:data="https://t.me/MinimalAOSP"/>
       </Preference>
 
         <Preference
@@ -33,7 +33,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_github" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://github.com/OnyxOS" />
+               android:data="https://gitlab.com/MinimalAOSP" />
         </Preference>
 
         <Preference
@@ -42,7 +42,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_telegram" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/onyxos_chat" />
+               android:data="https://t.me/minimalaospchat" />
         </Preference>
 
      </PreferenceCategory>
@@ -108,7 +108,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_design">
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/dompedro2002" />
+               android:data="https://t.me/rianx" />
       </Preference>
 
 </PreferenceCategory>

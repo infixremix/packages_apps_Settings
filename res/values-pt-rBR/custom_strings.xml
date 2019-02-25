@@ -146,12 +146,12 @@
     <string name="github_description">Veja nossa source</string>
     <string name="telegram">Telegram</string>
     <string name="telegram_description">Junte-se ao nosso grupo mo Telegram</string>
-    <string name="maintainers">Mantenedores/Líderes</string>
+    <string name="maintainers">Mantenedores</string>
     <string name="dev1_description">Fundador, Desenvolvedor Líder</string>
-    <string name="dev2_description">Co-Fundador/Mantenedor</string>
-    <string name="dev3_description">Desenvolvedor co-líder</string>
-    <string name="dev4_description">Desenvolvedor/Mantenedor</string>
+    <string name="dev2_description">Desenvolvedor co-Líder</string>
+    <string name="dev3_description">Desenvolvedor Co-Líder</string>
+    <string name="dev4_description">Desenvolvedor Co-Líder/Mantenedor</string>
     <string name="designers">Designers/Ajudantes</string>
     <string name="dev5_description">Designer/Mantenedor</string>
-    <string name="dev6_description">Designer/Mantenedor</string>
+    <string name="maintainer_description">Mantem para %1$s</string>
  </resources>

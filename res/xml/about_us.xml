@@ -33,7 +33,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_github" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://gitlab.com/MinimalAOSP" />
+               android:data="https://github.com/MinimalAOSP" />
         </Preference>
 
         <Preference
@@ -66,7 +66,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/Henriquetc" />
+               android:data="https://t.me/psychodev" />
         </Preference>
 
         <Preference
@@ -87,29 +87,14 @@ xmlns:android="http://schemas.android.com/apk/res/android"
                android:data="https://t.me/SrPh00_00" />
         </Preference>
 
-</PreferenceCategory>
-
-<PreferenceCategory
-              android:key="designers"
-              android:title="@string/designers" >
-
-       <Preference
+        <Preference
             android:title="@string/dev_5"
     android:summary="@string/dev5_description"
-    android:icon="@drawable/ic_design">
+    android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/JohnLaff" />
-      </Preference>
-
-       <Preference
-            android:title="@string/dev_6"
-    android:summary="@string/dev6_description"
-    android:icon="@drawable/ic_design">
-    <intent
-               android:action="android.intent.action.VIEW"
-               android:data="https://t.me/rianx" />
-      </Preference>
+               android:data="https://t.me/HenriqueTc" />
+        </Preference>
 
 </PreferenceCategory>
 

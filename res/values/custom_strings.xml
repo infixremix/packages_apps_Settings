@@ -170,6 +170,7 @@
     <string name="dev3_description">Co-Lead Source maintainer</string>
     <string name="dev_4">Allan Souza &#40;SrPh00_00&#41;</string>
     <string name="dev4_description">Co-Lead Source maintainer</string>
-    <string name="designers">Designers/Helpers</string>
+    <string name="dev_5">Henrique Tavares &#40;HenriqueTc&#41;</string>
+    <string name="dev5_description">Helper</string>
     <string name="maintainer_description">Maintains for %1$s</string>
 </resources>

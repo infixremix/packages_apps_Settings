@@ -14,29 +14,47 @@
     <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">  
-        <item>HenriqueTC</item>
+        <item>ZJRDroid</item>
         <item>AllanSouza</item>
         <item>Alisson</item>
-        <item>JohnLaff</item>
+        <item>JohnLaff</item>        
         <item>Rian</item>
+        <item>TioBurla</item>
+        <item>Can Emeç</item>
+        <item>JullianMs</item>
+        <item>BrunoRochaa</item>
+        <item>BrunoMi</item>
+        <item>Pennywise96</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
     <string-array name="maintainers_devices" translatable="false">
-        <item>Moto G5 (cedric)</item> <!-- Maintainer: HenriqueTC -->
-        <item>Moto G4 Play (Harpia)</item> <!-- Maintainer: AllanSouza -->
+        <item>Moto G5 (cedric)</item> <!-- Maintainer: ZJRDroid -->
+        <item>Moto G4 Play (harpia)</item> <!-- Maintainer: AllanSouza -->
         <item>Moto G5s Plus (sanders)</item> <!-- Maintainer: Alisson -->
         <item>Moto G5s (montana)</item> <!-- Maintainer: JhonLaff -->
         <item>Mi A2 (Jasmine)</item> <!-- Maintainer: Rian -->
+        <item>Redmi 4X (santoni)</item> <!-- Maintainer: TioBurla -->
+        <item>General Mobile 5 Plus (shamrock)</item> <!-- Maintainer: Can Emeç -->
+        <item>Mi 6X (jasmine_sprout) | Mi A2 (wayne)</item> <!-- Maintainer: JullianMs -->
+        <item>Mi 8 Lite (platina)</item> <!-- Maintainer: BrunoRochaa -->
+        <item>Redmi Note 6 Pro (tulip)</item> <!-- Maintainer: BrunoMi -->
+        <item>Galaxy J7 Prime (on7xelte)</item> <!-- Maintainer: Pennywise -->
      </string-array>
 
     <!-- Telegram of maintainer -->
     <string-array name="maintainers_url" translatable="false">
-        <item>https://t.me/henriquetc</item> <!-- Maintainer: HenriqueTC -->
+        <item>https://t.me/zjrdroid</item> <!-- Maintainer: ZJRDroid -->
         <item>https://t.me/SrPh00_00</item> <!-- Maintainer: Allan -->
         <item>https://t.me/marminino</item> <!-- Maintainer: Alisson -->
         <item>https://t.me/JohnLaff</item> <!-- Maintainer: JohnLaff -->
-        <item>https://t.me/rianx</item> <!-- Maintainer: Rian -->
+        <item>https://t.me/psychodev</item> <!-- Maintainer: Rian -->
+        <item>https://t.me/tioburla</item> <!-- Maintainer: TioBurla -->
+        <item>https://t.me/Rockzyrain</item> <!-- Maintainer: Can Emeç -->
+        <item>https://t.me/jullian14</item> <!-- Maintainer: JullianMs-->
+        <item>https://t.me/BrunoRochaa</item> <!-- Maintainer: Bruno Rocha-->
+        <item>https://t.me/Bruno_Mi</item> <!-- Maintainer: BrunoMi-->
+        <item>https://t.me/pennywise96</item> <!-- Maintainer: Pennywise96-->
      </string-array>
 
 </resources>

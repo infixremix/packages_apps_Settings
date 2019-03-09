@@ -151,7 +151,6 @@
     <string name="dev2_description">Desenvolvedor co-Líder</string>
     <string name="dev3_description">Desenvolvedor Co-Líder</string>
     <string name="dev4_description">Desenvolvedor Co-Líder/Mantenedor</string>
-    <string name="designers">Designers/Ajudantes</string>
-    <string name="dev5_description">Designer/Mantenedor</string>
+    <string name="dev5_description">Ajudante</string>
     <string name="maintainer_description">Mantem para %1$s</string>
  </resources>

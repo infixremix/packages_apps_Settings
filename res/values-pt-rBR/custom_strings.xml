@@ -153,4 +153,5 @@
     <string name="dev4_description">Desenvolvedor Co-Líder/Mantenedor</string>
     <string name="dev5_description">Ajudante</string>
     <string name="maintainer_description">Mantem para %1$s</string>
+    <string name="pd_settings_label">Configs</string>
  </resources>

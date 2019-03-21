@@ -173,4 +173,6 @@
     <string name="dev_5">Henrique Tavares &#40;HenriqueTc&#41;</string>
     <string name="dev5_description">Helper</string>
     <string name="maintainer_description">Maintains for %1$s</string>
+    <string name="pd_settings_label">Settings</string>
+    <string name="settings_head_title">PixelDirty</string>
 </resources>

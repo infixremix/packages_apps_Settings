@@ -25,6 +25,8 @@
         <item>BrunoRochaa</item>
         <item>BrunoMi</item>
         <item>Pennywise96</item>
+        <item>z4nyx</item>
+
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -40,6 +42,7 @@
         <item>Mi 8 Lite (platina)</item> <!-- Maintainer: BrunoRochaa -->
         <item>Redmi Note 6 Pro (tulip)</item> <!-- Maintainer: BrunoMi -->
         <item>Galaxy J7 Prime (on7xelte)</item> <!-- Maintainer: Pennywise -->
+        <item>Redmi 4A (rolex)</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
      </string-array>
 
     <!-- Telegram of maintainer -->
@@ -55,6 +58,7 @@
         <item>https://t.me/BrunoRochaa</item> <!-- Maintainer: Bruno Rocha-->
         <item>https://t.me/Bruno_Mi</item> <!-- Maintainer: BrunoMi-->
         <item>https://t.me/pennywise96</item> <!-- Maintainer: Pennywise96-->
+        <item>https://t.me/z4nyx</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
      </string-array>
 
 </resources>

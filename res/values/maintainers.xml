@@ -14,7 +14,7 @@
     <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Maintainers -->
     <string-array name="maintainers_title" translatable="false">  
-        <item>ZJRDroid</item>
+        <item>resk84</item>
         <item>AllanSouza</item>
         <item>Alisson</item>
         <item>JohnLaff</item>        
@@ -44,8 +44,8 @@
 
     <!-- Telegram of maintainer -->
     <string-array name="maintainers_url" translatable="false">
-        <item>https://t.me/zjrdroid</item> <!-- Maintainer: ZJRDroid -->
-        <item>https://t.me/SrPh00_00</item> <!-- Maintainer: Allan -->
+        <item>https://t.me/resk84</item> <!-- Maintainer: ZJRDroid -->
+        <item>https://t.me/AllanSouza99</item> <!-- Maintainer: Allan -->
         <item>https://t.me/marminino</item> <!-- Maintainer: Alisson -->
         <item>https://t.me/JohnLaff</item> <!-- Maintainer: JohnLaff -->
         <item>https://t.me/psychodev</item> <!-- Maintainer: Rian -->

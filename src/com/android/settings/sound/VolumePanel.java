@@ -1,3 +1,5 @@
+
+
 /*
  * Copyright (C) 2018 crDroid Android Project
  *
@@ -85,6 +87,6 @@ public class VolumePanel extends SettingsPreferenceFragment {
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.VENOM;
+        return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
     }
 }

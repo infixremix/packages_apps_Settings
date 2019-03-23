@@ -151,27 +151,36 @@
     <string name="display_cutout_mode_normal">Default</string>
     <string name="display_cutout_mode_hidden">Hidden</string>
 
-    <!-- About MinimalAOSP -->
+    <!-- System theme -->
+    <string name="theme_category_title">System theme</string>
+    <string name="systemui_theme_style_title">Background color</string>
+    <string name="systemui_theme_style_auto">Automatic (wallpaper based)</string>
+    <string name="systemui_theme_style_light">Light</string>
+    <string name="systemui_theme_style_dark">Dark</string>
+
+    <!-- About PixelDirty -->
     <string name="minimal_about_info">About us</string>
     <string name="minimal_about_summary">Our introduction and our team</string>
-    <string name="minimal_about_info_summary">MinimalAOSP is an AOSP based Rom which provides stock UI/UX with minimal customisations. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP, it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.</string>
-    <string name="dev_info">About MinimalAOSP</string>
+    <string name="minimal_about_info_summary">PixelDirty is an AOSP based Rom which provides stock UI/UX with minimal customisations. The project has been made by cherry-picking various commits from various other projects. Being based on AOSP, it provides a smooth and lag-free experience out of the box. We will constantly try to add more features and make it even better in future updates.</string>
+    <string name="dev_info">About PixelDirty</string>
     <string name="leads">Team Leads</string>
     <string name="github">Github</string>
     <string name="github_description">View our source code</string>
     <string name="telegram">Telegram</string>
     <string name="telegram_description">Join our Telegram discussion group</string>
     <string name="maintainers">Maintainers</string>
-    <string name="dev_1">Zilberto Junior(ZJRDroid)</string>
+    <string name="dev_1">Zilberto Junior(resk84)</string>
     <string name="dev1_description">Founder, Lead Source Maintainer</string>
-    <string name="dev_2">Rian (rssxda)</string>
-    <string name="dev2_description">Co-lead source Maintainer</string>
-    <string name="dev_3">Alisson &#40;marminino&#41;</string>
-    <string name="dev3_description">Co-Lead Source maintainer</string>
+    <string name="dev_2">kley76</string>
+    <string name="dev2_description">Co-Founder/Designer</string>
+    <string name="dev_3">HenriqueTC</string>
+    <string name="dev3_description">Co-Founder/Helper</string>
     <string name="dev_4">Allan Souza &#40;SrPh00_00&#41;</string>
     <string name="dev4_description">Co-Lead Source maintainer</string>
-    <string name="dev_5">Henrique Tavares &#40;HenriqueTc&#41;</string>
-    <string name="dev5_description">Helper</string>
+    <string name="dev_5">Alisson &#40;marminino&#41;</string>
+    <string name="dev5_description">Co-Leader/Source Maintainer</string>
+    <string name="dev_6">rssxda</string>
+    <string name="dev6_description">Co-Leader/Source Maintainer</string>
     <string name="maintainer_description">Maintains for %1$s</string>
     <string name="pd_settings_label">Settings</string>
     <string name="settings_head_title">PixelDirty</string>

@@ -24,7 +24,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:summary="@string/minimal_about_info_summary" >
             <intent
                android:action="android.intent.action.VIEW" 
-               android:data="https://t.me/MinimalAOSP"/>
+               android:data="https://t.me/PixelDirty"/>
       </Preference>
 
         <Preference
@@ -33,7 +33,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_github" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://github.com/MinimalAOSP" />
+               android:data="https://github.com/PixelDirty" />
         </Preference>
 
         <Preference
@@ -42,7 +42,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_telegram" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/minimalaospchat" />
+               android:data="https://t.me/PixelDirtyChat" />
         </Preference>
 
      </PreferenceCategory>
@@ -66,7 +66,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/psychodev" />
+               android:data="https://t.me/kley76" />
         </Preference>
 
         <Preference
@@ -75,7 +75,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/marminino" />
+               android:data="https://t.me/HenriqueTC" />
         </Preference>
 
         <Preference
@@ -84,7 +84,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/SrPh00_00" />
+               android:data="https://t.me/AllanSouza99" />
         </Preference>
 
         <Preference
@@ -93,10 +93,19 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     android:icon="@drawable/ic_devs" >
     <intent
                android:action="android.intent.action.VIEW"
-               android:data="https://t.me/HenriqueTc" />
+               android:data="https://t.me/marminino" />
         </Preference>
 
-</PreferenceCategory>
+       <Preference
+             android:title="@string/dev_6"
+             android:summary="@string/dev6_description"
+             android:icon="@drawable/ic_devs" >
+       <intent
+             android:action="android.intent.action.VIEW"
+             android:data="https://t.me/psychodev" />
+       </Preference>
+
+</PreferenceCategory>             
 
 <PreferenceCategory
               android:key="maintainers"

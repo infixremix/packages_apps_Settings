@@ -154,7 +154,7 @@
     <string name="dev5_description">Desenvolvedor/Mantenedor</string>
     <string name="dev6_description">Desenvolvedor</string>
     <string name="maintainer_description">Mantem para %1$s</string>
-    <string name="pd_settings_label">Configs</string>
+    <string name="pd_settings_label">Ajustes</string>
 
    <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">Painel de volume</string>

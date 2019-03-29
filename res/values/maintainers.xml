@@ -26,6 +26,7 @@
         <item>BrunoMi</item>
         <item>Pennywise96</item>
         <item>z4nyx</item>
+        <item>waiser</item>
 
    </string-array>
 
@@ -43,6 +44,7 @@
         <item>Redmi Note 6 Pro (tulip)</item> <!-- Maintainer: BrunoMi -->
         <item>Galaxy J7 Prime (on7xelte)</item> <!-- Maintainer: Pennywise -->
         <item>Redmi 4A (rolex)</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
+        <item>Redmi 5 Plus</item> <!-- Maintainer: waiser -->
      </string-array>
 
     <!-- Telegram of maintainer -->
@@ -59,6 +61,7 @@
         <item>https://t.me/Bruno_Mi</item> <!-- Maintainer: BrunoMi-->
         <item>https://t.me/pennywise96</item> <!-- Maintainer: Pennywise96-->
         <item>https://t.me/z4nyx</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
+        <item>https://t.me/waiser_hm</item> <!-- Maintainer: waiser -->
      </string-array>
 
 </resources>

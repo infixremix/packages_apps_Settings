@@ -27,7 +27,7 @@
         <item>Pennywise96</item>
         <item>z4nyx</item>
         <item>waiser</item>
-
+        <item>Yasirsiddiqui</item>
    </string-array>
 
     <!-- Devices maintained by maintainer -->
@@ -45,6 +45,7 @@
         <item>Galaxy J7 Prime (on7xelte)</item> <!-- Maintainer: Pennywise -->
         <item>Redmi 4A (rolex)</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
         <item>Redmi 5 Plus</item> <!-- Maintainer: waiser -->
+        <item>Yu Yuphoria (lettuce)</item> <!-- Maintainer: Yasir siddiqui -->
      </string-array>
 
     <!-- Telegram of maintainer -->
@@ -62,6 +63,7 @@
         <item>https://t.me/pennywise96</item> <!-- Maintainer: Pennywise96-->
         <item>https://t.me/z4nyx</item> <!-- Maintainer: 卄卂丨Ҡ卂ㄥ -->
         <item>https://t.me/waiser_hm</item> <!-- Maintainer: waiser -->
+        <item>https://t.me/Yasirsiddiqui</item> <!-- Maintainer: Yasirsiddiqui -->
      </string-array>
 
 </resources>

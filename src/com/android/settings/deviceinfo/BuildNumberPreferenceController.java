@@ -87,10 +87,10 @@ public class BuildNumberPreferenceController extends AbstractPreferenceControlle
             try {
                 StringBuilder sb = new StringBuilder();
                 sb.append(BidiFormatter.getInstance().unicodeWrap(Build.DISPLAY));
-                String pixelExperienceVersion = getPixelExperienceVersion();
-                if (!pixelExperienceVersion.equals("")){
+                String pixelDirtyVersion = getPixelDirtyVersion();
+                if (!pixelDirtyVersion.equals("")){
                     sb.append("\n");
-                    sb.append(pixelExperienceVersion);
+                    sb.append(pixelDirtyVersion);
                 }
                 preference.setSummary(sb.toString());
                 preference.setEnabled(true);
@@ -100,10 +100,10 @@ public class BuildNumberPreferenceController extends AbstractPreferenceControlle
         }
     }
 
-    private String getPixelExperienceVersion(){
-        String buildDate = SystemProperties.get("org.pixelexperience.build_date","");
-        String buildType = SystemProperties.get("org.pixelexperience.build_type","unofficial").toUpperCase();
-        return buildDate.equals("") ? "" : "PixelExperience-" + buildDate + "-CAF-" + buildType;
+    private String getPixelDirtyVersion(){
+        String buildDate = SystemProperties.get("org.pixeldirty.build_date","");
+        String buildType = SystemProperties.get("org.pixeldirty.build_type","unofficial").toUpperCase();
+        return buildDate.equals("") ? "" : "PixelDirty-9.0-" + buildDate + "-CAF-" + buildType;
     }
 
     @Override

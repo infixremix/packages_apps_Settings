@@ -55,20 +55,6 @@
         android:title="@string/emergency_info_title"
         android:summary="@string/summary_placeholder"/>
 
-<!--    <!-- Legal information
-    <Preference
-        android:key="legal_container"
-        android:order="11"
-        android:title="@string/legal_information"
-        android:fragment="com.android.settings.LegalSettings"
-        settings:allowDividerAbove="true"/>
-
-    <!-- Contributors cloud
-    <org.lineageos.internal.lineageparts.LineagePartsPreference
-        android:order="12"
-        android:key="contributors"/>-->
-
-    <!-- Regulatory labels -->
     <Preference
         android:key="regulatory_info"
         android:order="13"
@@ -119,7 +105,6 @@
     
    <!-- Prisma Version -->
     <Preference
-        android:key="prisma_version"
         android:key="prisma_info"
         android:order="33"
         android:title="@string/prisma_info"

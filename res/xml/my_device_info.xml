@@ -55,7 +55,7 @@
         android:title="@string/emergency_info_title"
         android:summary="@string/summary_placeholder"/>
 
-    <!-- Legal information -->
+<!--    <!-- Legal information
     <Preference
         android:key="legal_container"
         android:order="11"
@@ -63,10 +63,10 @@
         android:fragment="com.android.settings.LegalSettings"
         settings:allowDividerAbove="true"/>
 
-    <!-- Contributors cloud -->
+    <!-- Contributors cloud
     <org.lineageos.internal.lineageparts.LineagePartsPreference
         android:order="12"
-        android:key="contributors"/>
+        android:key="contributors"/>-->
 
     <!-- Regulatory labels -->
     <Preference
@@ -115,6 +115,14 @@
         android:order="32"
         android:title="@string/firmware_version"
         settings:keywords="@string/keywords_android_version"
+        android:summary="@string/summary_placeholder"/>
+    
+   <!-- Prisma Version -->
+    <Preference
+        android:key="prisma_version"
+        android:key="prisma_info"
+        android:order="33"
+        android:title="@string/prisma_info"
         android:summary="@string/summary_placeholder"/>
 
     <!--IP address -->

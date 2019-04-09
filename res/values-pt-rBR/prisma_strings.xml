@@ -21,4 +21,6 @@
     <string name="prisma_device">Dispositivo</string>
     <string name="prisma_version">Versão</string>
 
+    <string name="prisma_settings_title">Hub Prisma</string>
+    <string name="prisma_settings_summary">Personalizações, Tweaks</string>
 </resources>

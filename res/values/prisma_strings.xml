@@ -18,5 +18,6 @@
     <string name="prisma_type">Build type</string>
     <string name="prisma_device">Device</string>
     <string name="prisma_version">Version</string>
-
+    <string name="prisma_settings_title">PrismaHub</string>
+    <string name="prisma_settings_summary">Personalizations, Tweaks</string>
 </resources>
